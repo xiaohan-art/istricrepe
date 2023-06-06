@@ -1,0 +1,22 @@
+{
+  "name": "istricrepe",
+  "version": "0.0.1",
+  "description": "check if the input is tricrepe",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohan-art/istricrepe.git"
+  },
+  "keywords": [
+    "tricrepe"
+  ],
+  "author": "tricrepe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaohan-art/istricrepe/issues"
+  },
+  "homepage": "https://github.com/xiaohan-art/istricrepe#readme"
+}
