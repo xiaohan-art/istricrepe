@@ -1,4 +1,4 @@
-name: istricrepe
+name: Nodejs Packages
 
 on:
   release:
