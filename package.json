@@ -1,5 +1,5 @@
 {
-  "name": "istricrepe",
+  "name": "@tricrepe/istricrepe",
   "version": "0.0.1",
   "description": "check if the input is tricrepe",
   "main": "index.js",
